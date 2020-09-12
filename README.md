@@ -23,3 +23,6 @@ In this project, we will analyze the following questions based on the Stack Over
 -  developer_survey_2017.zip
 -  developer_survey_2020.zip
 
+## For more detail
+https://gitpress.io/u/1366/DS_blogpost
+
